@@ -2,7 +2,7 @@
 
 
 - I’m a final year M.Sc. Machine Learning student at [MBZUAI](https://mbzuai.ac.ae/research/department/machine-learning-department/) working in [BioMedia Lab](https://mbzuai-biomedia.com/).
-- I completed my bachelor's in Biomedical Engineering from [NEDUET](https://www.neduet.edu.pk/).
+- I completed my bachelor's in biomedical engineering at [NEDUET](https://www.neduet.edu.pk/).
 - 🌱 I enjoy working on deep learning for medical/clinical or healthcare problems and learning new topics related to AI and healthcare!
 
 ## 💬 Ask me about
