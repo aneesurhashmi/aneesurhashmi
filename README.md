@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=32&pause=1000&color=19DBFF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Anees+Hashmi)](https://git.io/typing-svg)
-
-
 - I’m a final year M.Sc. Machine Learning student at [MBZUAI](https://mbzuai.ac.ae/research/department/machine-learning-department/) working in [BioMedia Lab](https://mbzuai-biomedia.com/).
 - I completed my bachelor's in biomedical engineering at [NEDUET](https://www.neduet.edu.pk/).
 - 🌱 I enjoy working on deep learning for medical/clinical or healthcare problems and learning new topics related to AI and healthcare!
