@@ -1,17 +1,10 @@
+## Hi there 👋
+
 - I’m a final year M.Sc. Machine Learning student at [MBZUAI](https://mbzuai.ac.ae/research/department/machine-learning-department/) working in [BioMedia Lab](https://mbzuai-biomedia.com/).
-- I completed my bachelor's in biomedical engineering at [NEDUET](https://www.neduet.edu.pk/).
-- 🌱 I enjoy working on deep learning for medical/clinical or healthcare problems and learning new topics related to AI and healthcare!
-
-## 💬 Ask me about
-- Medical Imaging
-- Healthcare AI
-- Generative Models (Diffusion Models, GANs and VAEs)
-- Federated Learning
-- Image Segmentation
-
+  
 ## More about me:
 - Webpage: [https://aneesurhashmi.github.io/](https://aneesurhashmi.github.io/)
-- Google Scholars: [https://scholar.google.com/citations?user=qyAU-gEAAAAJ&hl=en](https://scholar.google.com/citations?user=qyAU-gEAAAAJ&hl=en)
+- Reach me at: [https://aneesurhashmi.github.io/](https://aneesurhashmi.github.io/)
 
 
 
